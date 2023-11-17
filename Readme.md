@@ -24,5 +24,5 @@ The following procedure creates a choropleth map of NYC with respect to time and
 
 Clustering multi-polygons with varying levels of Nitrogen Dioxide in 2020 produces the following clusters: 
 
-![alt text] ![kmeans_NYC_2020](https://github.com/halaway/nyc-air-quality-analysis/assets/31904474/a2e7c14d-9304-4fd0-a389-8178c4e73d2f)
+![kmeans_NYC_2020](https://github.com/halaway/nyc-air-quality-analysis/assets/31904474/a2e7c14d-9304-4fd0-a389-8178c4e73d2f)
 
