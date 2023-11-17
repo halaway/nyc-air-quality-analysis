@@ -18,10 +18,11 @@ The following procedure creates a choropleth map of NYC with respect to time and
 [Change in NO2 Levels in NYC from 2008-2022](https://tinyurl.com/2e3m8779 )
 
 
-
 # Machine Learning Models
 
 ## K-Means Clustering
 
+Clustering multi-polygons with varying levels of Nitrogen Dioxide in 2020 produces the following clusters: 
 
+![alt text] ![kmeans_NYC_2020](https://github.com/halaway/nyc-air-quality-analysis/assets/31904474/a2e7c14d-9304-4fd0-a389-8178c4e73d2f)
 
