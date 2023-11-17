@@ -14,8 +14,8 @@ We can begin by mapping historical NO2 levels by Community Districts and aggrega
 in a 12-month period. This could help to assess any changes in NO2 and emerging patterns within our data.
 
 The following procedure creates a choropleth map of NYC with respect to time and is available here:
+[Github](https://github.com/tomcam/least-github-pages/) 
 
-[Change in NO2 Levels in NYC from 2008-2022]([https://www.donnolis.com](https://www.google.com/url?q=https%3A%2F%2Fhalaway.github.io%2Fnyc-air-quality-analysis%2F&sa=D&sntz=1&usg=AOvVaw2eKA0DhytKNem96T3UQtne)https://www.google.com/url?q=https%3A%2F%2Fhalaway.github.io%2Fnyc-air-quality-analysis%2F&sa=D&sntz=1&usg=AOvVaw2eKA0DhytKNem96T3UQtne)
-
+[Change in NO2 Levels in NYC from 2008-2022]( )
 
 
