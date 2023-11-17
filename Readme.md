@@ -15,7 +15,7 @@ in a 12-month period. This could help to assess any changes in NO2 and emerging 
 
 The following procedure creates a choropleth map of NYC with respect to time and is available here:
 
-[Change in NO2 Levels in NYC from 2008-2022](https://halaway.github.io/nyc-air-quality-analysis/)
+[Change in NO2 Levels in NYC from 2008-2022](https://www.donnolis.com)
 
 
 
