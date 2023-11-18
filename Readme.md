@@ -10,14 +10,14 @@ contributor to air pollution.
 
 # General Trends and Map Overview 
 
-We can begin by plotting the changes in NO2 levels across NYC from 2008 to 2021. This creates a general 
-plot highlighting discernible cyclical patterns.
+We can begin by plotting the changes in NO2 levels across NYC from 2008 to 2021. This creates a general plot highlighting discernible cyclical patterns.
+
 ![averageNO2Levels](https://github.com/halaway/nyc-air-quality-analysis/assets/31904474/8e786784-62a7-4b8c-9774-f9985ff0ad31)
 
 
 
-mapping historical NO2 levels by Community Districts and aggregating by the average level
-in a 12-month period. This could help to assess any changes in NO2 and emerging patterns within our data.
+Mapping historical NO2 levels by Community Districts and aggregating by the average level
+in a 12-month period could help to assess any changes in NO2 and emerging patterns within our data.
 
 The following procedure creates a choropleth map of NYC with respect to time and is available here:
 
